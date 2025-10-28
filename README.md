@@ -63,7 +63,7 @@ Rodrigo Quintiliano
 Reynold Choruma
 Prabhsheen Kaur
 
-## Developers Locations
+## Developers' Locations
 - Germany
 - French
 - Portugal
